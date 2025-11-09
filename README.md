@@ -1,0 +1,2 @@
+# Performance-Analytic-Business-Performance-Analysis-of-Kimia-Farma-for-the-Period-2020-2023-
+This project aims to analyze branch performance and sales transactions at Kimia Farma, one of Indonesia's largest pharmaceutical companies. By combining four different datasets, the project helps the company understand sales performance, profitability, and customer satisfaction levels across its various branches.
